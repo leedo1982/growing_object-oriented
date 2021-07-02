@@ -1,4 +1,4 @@
-package com.example.study.real_world;
+package com.example.study.real_world.chapter02;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package com.example.study.real_world;
+package com.example.study.real_world.chapter02;
 
 public class BankTransactionParser {
     public BankTransaction parseFromCSV(final String lint) {

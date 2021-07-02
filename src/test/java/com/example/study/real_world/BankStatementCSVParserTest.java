@@ -1,5 +1,8 @@
 package com.example.study.real_world;
 
+import com.example.study.real_world.chapter02.BankStatementCSVParser;
+import com.example.study.real_world.chapter02.BankStatementParser;
+import com.example.study.real_world.chapter02.BankTransaction;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
